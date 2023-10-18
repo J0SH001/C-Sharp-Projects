@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\PackageAssignment\PackageAssignment\bin\Debug\PackageAssignment.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\PackageAssignment\PackageAssignment\bin\Debug\PackageAssignment.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\PackageAssignment\PackageAssignment\bin\Debug\PackageAssignment.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\PackageAssignment\PackageAssignment\obj\Debug\PackageAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\PackageAssignment\PackageAssignment\obj\Debug\PackageAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\PackageAssignment\PackageAssignment\obj\Debug\PackageAssignment.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\PackageAssignment\PackageAssignment\obj\Debug\PackageAssignment.pdb
