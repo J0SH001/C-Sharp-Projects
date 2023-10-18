@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\C-Sharp_Mathematics\C-Sharp_Mathematics\bin\Debug\C-Sharp_Mathematics.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\C-Sharp_Mathematics\C-Sharp_Mathematics\bin\Debug\C-Sharp_Mathematics.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\C-Sharp_Mathematics\C-Sharp_Mathematics\bin\Debug\C-Sharp_Mathematics.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\C-Sharp_Mathematics\C-Sharp_Mathematics\obj\Debug\C-Sharp_Mathematics.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\C-Sharp_Mathematics\C-Sharp_Mathematics\obj\Debug\C-Sharp_Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\C-Sharp_Mathematics\C-Sharp_Mathematics\obj\Debug\C-Sharp_Mathematics.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\C-Sharp_Mathematics\C-Sharp_Mathematics\obj\Debug\C-Sharp_Mathematics.pdb
