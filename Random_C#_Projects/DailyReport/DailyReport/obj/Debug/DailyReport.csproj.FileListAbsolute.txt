@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
