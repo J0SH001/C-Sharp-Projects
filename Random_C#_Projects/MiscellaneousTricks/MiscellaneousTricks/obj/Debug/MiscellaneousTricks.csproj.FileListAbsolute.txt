@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MiscellaneousTricks\MiscellaneousTricks\bin\Debug\MiscellaneousTricks.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MiscellaneousTricks\MiscellaneousTricks\bin\Debug\MiscellaneousTricks.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MiscellaneousTricks\MiscellaneousTricks\bin\Debug\MiscellaneousTricks.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MiscellaneousTricks\MiscellaneousTricks\obj\Debug\MiscellaneousTricks.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MiscellaneousTricks\MiscellaneousTricks\obj\Debug\MiscellaneousTricks.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MiscellaneousTricks\MiscellaneousTricks\obj\Debug\MiscellaneousTricks.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MiscellaneousTricks\MiscellaneousTricks\obj\Debug\MiscellaneousTricks.pdb

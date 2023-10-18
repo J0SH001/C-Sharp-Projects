@@ -13,7 +13,7 @@ namespace SwitchExample
             Console.WriteLine("What is your favorite number between 1 and 10?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool correct = number == 3;
-
+            
             //Initiates the loop if the first answer is correct
             do
             {
@@ -37,6 +37,26 @@ namespace SwitchExample
                 }
             }
             while (!correct);
+
+            Console.WriteLine("Pick another number between 1 and 10.");
+            int number2 = Convert.ToInt32(Console.ReadLine());
+            bool correct2 = number2 == 8;
+
+            while (!correct2)
+            {
+                if (number2 == 8)
+                {
+                    Console.WriteLine("That is the correct number!");
+                    correct2 = true;
+                }
+                else
+                {
+                    Console.WriteLine("Pick another number between 1 and 10.");
+                    number2 = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+
+
             Console.ReadLine();
         }
     }
