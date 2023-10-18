@@ -22,7 +22,10 @@ namespace MiscellaneousTricks
             string nameU = name.ToUpper();
 
             StringBuilder sb = new StringBuilder();
-            sb.Append("My name is Josh");
+            sb.Append("My name is Josh.");
+            sb.Append("Im learning C# at the moment.");
+            sb.Append("I think it\'s going rather well so far.");
+
 
             Console.WriteLine(name);
             Console.WriteLine(quote);

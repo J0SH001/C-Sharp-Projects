@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
