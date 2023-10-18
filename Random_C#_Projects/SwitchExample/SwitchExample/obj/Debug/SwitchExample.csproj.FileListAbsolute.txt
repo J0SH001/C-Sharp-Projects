@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\SwitchExample\SwitchExample\bin\Debug\SwitchExample.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\SwitchExample\SwitchExample\bin\Debug\SwitchExample.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\SwitchExample\SwitchExample\bin\Debug\SwitchExample.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\SwitchExample\SwitchExample\obj\Debug\SwitchExample.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\SwitchExample\SwitchExample\obj\Debug\SwitchExample.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\SwitchExample\SwitchExample\obj\Debug\SwitchExample.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\SwitchExample\SwitchExample\obj\Debug\SwitchExample.pdb
