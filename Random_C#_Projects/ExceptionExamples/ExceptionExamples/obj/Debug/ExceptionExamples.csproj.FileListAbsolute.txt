@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ExceptionExamples\ExceptionExamples\bin\Debug\ExceptionExamples.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ExceptionExamples\ExceptionExamples\bin\Debug\ExceptionExamples.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ExceptionExamples\ExceptionExamples\bin\Debug\ExceptionExamples.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ExceptionExamples\ExceptionExamples\obj\Debug\ExceptionExamples.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ExceptionExamples\ExceptionExamples\obj\Debug\ExceptionExamples.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ExceptionExamples\ExceptionExamples\obj\Debug\ExceptionExamples.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ExceptionExamples\ExceptionExamples\obj\Debug\ExceptionExamples.pdb

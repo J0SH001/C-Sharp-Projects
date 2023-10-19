@@ -15,13 +15,13 @@ namespace ConsoleApp
             Console.WriteLine("Type a name and press \"Enter\".");
             string petName = Console.ReadLine();
 
-            foreach (string i in phrases)
+            for (int i = 0; i < phrases.Length; i++)
             {
-                i.Concat(i + petName);
+                phrases[i] += petName;
             }
             foreach (string i in phrases)
             {
-                Console.WriteLine(i + petName);
+                Console.WriteLine(i);
             }
             //Assignment 1 end
 
@@ -36,9 +36,9 @@ namespace ConsoleApp
             //Assignment 2 end
 
             //Assignment 3 start
-            string[] pies = { "Cherry", "Apple", "Blueberry", "Pumpkin", "Banana Cream", "Cherry" };
+            List<string> pies = new List<string>(){ "Cherry", "Apple", "Blueberry", "Pumpkin", "Banana Cream", "Cherry" };
 
-            for (int j = 0; j < pies.Length; j++)
+            for (int j = 0; j < pies.Count; j++)
             {
                 Console.WriteLine(pies[j]);
             }
@@ -52,13 +52,14 @@ namespace ConsoleApp
             //Assignment 3 end
 
             //Assignment 4 start
+            List<string> pies2 = new List<string>() { "Cherry", "Apple", "Blueberry", "Pumpkin", "Banana Cream"};
             Console.WriteLine("Type a pie flavor and press \"Enter\".");
             string pietext = Console.ReadLine();
             int sum = 0;
 
-            for (int j = 0; j < pies.Length; j++)
+            for (int j = 0; j < pies2.Count; j++)
             {
-                if (pies[j].Contains(pietext))
+                if (pies2[j].Contains(pietext))
                 {
                     Console.WriteLine(j);
                     sum = sum + 1;
@@ -72,14 +73,14 @@ namespace ConsoleApp
             //Assignment 4 end
 
             //Assignment 5 start
-
+            List<string> pies3 = new List<string>() { "Cherry", "Apple", "Blueberry", "Pumpkin", "Banana Cream", "Cherry" };
             Console.WriteLine("Type a pie flavor and press \"Enter\".");
             string pietext2 = Console.ReadLine();
             int sum2 = 0;
 
-            for (int j = 0; j < pies.Length; j++)
+            for (int j = 0; j < pies3.Count; j++)
             {
-                if (pies[j].Contains(pietext2))
+                if (pies3[j].Contains(pietext2))
                 {
                     Console.WriteLine(j);
                     sum2 = sum2 + 1;
@@ -92,8 +93,9 @@ namespace ConsoleApp
             //Assignment 5 end
 
             //Assignment 6 start
+            List<string> pies4 = new List<string>() { "Cherry", "Apple", "Blueberry", "Pumpkin", "Banana Cream", "Cherry" };
             List<string> newPies = new List<string>();
-            foreach (string pie in pies)
+            foreach (string pie in pies4)
             {
                 int pieNum = 0;
                 foreach (string newPie in newPies)
