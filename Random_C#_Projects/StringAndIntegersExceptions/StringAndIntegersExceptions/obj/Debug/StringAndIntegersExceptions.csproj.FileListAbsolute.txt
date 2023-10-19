@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\StringAndIntegersExceptions\StringAndIntegersExceptions\bin\Debug\StringAndIntegersExceptions.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\StringAndIntegersExceptions\StringAndIntegersExceptions\bin\Debug\StringAndIntegersExceptions.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\StringAndIntegersExceptions\StringAndIntegersExceptions\bin\Debug\StringAndIntegersExceptions.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\StringAndIntegersExceptions\StringAndIntegersExceptions\obj\Debug\StringAndIntegersExceptions.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\StringAndIntegersExceptions\StringAndIntegersExceptions\obj\Debug\StringAndIntegersExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\StringAndIntegersExceptions\StringAndIntegersExceptions\obj\Debug\StringAndIntegersExceptions.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\StringAndIntegersExceptions\StringAndIntegersExceptions\obj\Debug\StringAndIntegersExceptions.pdb
