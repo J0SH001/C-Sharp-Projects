@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodsAssignment3\MethodsAssignment3\bin\Debug\MethodsAssignment3.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodsAssignment3\MethodsAssignment3\bin\Debug\MethodsAssignment3.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodsAssignment3\MethodsAssignment3\bin\Debug\MethodsAssignment3.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodsAssignment3\MethodsAssignment3\obj\Debug\MethodsAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodsAssignment3\MethodsAssignment3\obj\Debug\MethodsAssignment3.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodsAssignment3\MethodsAssignment3\obj\Debug\MethodsAssignment3.pdb
