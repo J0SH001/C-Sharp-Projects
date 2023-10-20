@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment6\MethodAssignment6\bin\Debug\MethodAssignment6.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment6\MethodAssignment6\bin\Debug\MethodAssignment6.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment6\MethodAssignment6\bin\Debug\MethodAssignment6.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment6\MethodAssignment6\obj\Debug\MethodAssignment6.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment6\MethodAssignment6\obj\Debug\MethodAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment6\MethodAssignment6\obj\Debug\MethodAssignment6.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment6\MethodAssignment6\obj\Debug\MethodAssignment6.pdb
