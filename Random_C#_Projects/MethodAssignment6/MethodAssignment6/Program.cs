@@ -16,7 +16,7 @@ namespace MethodAssignment6
             test.SayName();
             Console.ReadLine();
 
-            Employee quitter = new Employee();
+            IQuittable quitter = new Employee();
             quitter.quit();
             Console.ReadLine();
         }
