@@ -9,5 +9,10 @@ namespace MethodAssignment6
     class Employee : Person
     {
         public int Id { get; set; }
+
+        public override void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+        }
     }
 }

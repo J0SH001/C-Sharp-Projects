@@ -18,7 +18,7 @@ namespace ClassAssignment
             remainder = dividend % 2;
         }
 
-        public static int Add(int i)
+        public int Add(int i)
         {
             i = i + 5;
             return i;
