@@ -18,9 +18,9 @@ namespace MethodAssignment7
             Employee two = new Employee();
             two.FirstName = "First";
             two.LastName = "Employee";
-            two.Id = 13;
+            two.Id = 14;
 
-            _=one == two;
+            Console.WriteLine(one != two);
             Console.ReadLine();
         }
     }
