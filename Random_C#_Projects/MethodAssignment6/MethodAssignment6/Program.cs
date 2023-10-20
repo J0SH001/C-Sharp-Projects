@@ -15,6 +15,10 @@ namespace MethodAssignment6
             test.LastName = "Student";
             test.SayName();
             Console.ReadLine();
+
+            Employee quitter = new Employee();
+            quitter.quit();
+            Console.ReadLine();
         }
     }
 }
