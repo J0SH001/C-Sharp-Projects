@@ -10,7 +10,9 @@ namespace MethodsAssignment4
     {
         static void Main(string[] args)
         {
-            Numbers two = new 
+            Numbers two = new Numbers();
+            two.Separate(num1: 5, num2: 6);
+            Console.ReadLine();
         }
     }
 }

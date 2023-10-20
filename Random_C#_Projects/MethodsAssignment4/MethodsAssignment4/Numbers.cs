@@ -12,6 +12,7 @@ namespace MethodsAssignment4
         {
             int num3 = num1 + 27;
             Console.WriteLine(num2);
+            Console.WriteLine(num3);
         }
     }
 }
