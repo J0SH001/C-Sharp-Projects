@@ -12,7 +12,7 @@ namespace MethodAssignment7
         public string LastName { get; set; }
         public int Id { get; set; }
 
-        public static bool operator == (Employee one, Employee two)
+        public static bool operator == (Employee one, Employee two  )
         {
             return one.Id == two.Id;
         }
