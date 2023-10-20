@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment7\MethodAssignment7\bin\Debug\MethodAssignment7.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment7\MethodAssignment7\bin\Debug\MethodAssignment7.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment7\MethodAssignment7\bin\Debug\MethodAssignment7.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment7\MethodAssignment7\obj\Debug\MethodAssignment7.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment7\MethodAssignment7\obj\Debug\MethodAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment7\MethodAssignment7\obj\Debug\MethodAssignment7.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\MethodAssignment7\MethodAssignment7\obj\Debug\MethodAssignment7.pdb
