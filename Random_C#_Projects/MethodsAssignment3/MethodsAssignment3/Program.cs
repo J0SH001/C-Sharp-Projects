@@ -23,8 +23,9 @@ namespace MethodsAssignment3
             }
             else
             {
+                int num3 = Convert.ToInt32(num2);
                 Numbers math = new Numbers();
-                Console.WriteLine(math.Add(num1, num2));
+                Console.WriteLine(math.Add(num1, num3));
             }
 
             Console.ReadLine();

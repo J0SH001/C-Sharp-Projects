@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodsAssignment3
+namespace MethodsAssignment4
 {
     class Numbers
     {
-        public int Add(int i, int i2 = 1)
+        public void Separate(int num1, int num2)
         {
-            int i3 = (i * i2) + 34;
-            return i3;
+            int num3 = num1 + 27;
+            Console.WriteLine(num2);
         }
     }
 }
