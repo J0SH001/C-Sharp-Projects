@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\Random_C#_Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
