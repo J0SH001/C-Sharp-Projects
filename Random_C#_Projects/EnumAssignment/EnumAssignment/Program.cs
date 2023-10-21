@@ -14,23 +14,9 @@ namespace EnumAssignment
             {
                 Console.WriteLine("Enter the current day of the week.");
                 string day = Console.ReadLine();
-                int counter = 0;
+                DaysOfTheWeek theDay = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), day);
+                Console.WriteLine(theDay + " is a day in the enum.");
 
-                foreach (string dayName in Enum.GetNames(typeof(DaysOfTheWeek)))
-                {
-                    if (Convert.ToString(Enum.Parse(typeof(DaysOfTheWeek), dayName)) == day)
-                    {
-                        Console.WriteLine(day + " is a day in the enum.");
-                    }
-                    else
-                    {
-                        counter++;
-                    }
-                }
-                if (counter == 7)
-                {
-                    throw new Exception();
-                }
             }
             catch (Exception ex)
             {
