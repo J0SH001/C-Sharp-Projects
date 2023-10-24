@@ -5,3 +5,6 @@ C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\BlackJack\obj\Debug\B
 C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
 C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\BlackJack\bin\Debug\Casino.dll
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\BlackJack\bin\Debug\Casino.pdb
+C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CopyComplete

@@ -4,6 +4,8 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino;
+using Casino.BlackJack;
 
 namespace BlackJack
 {
@@ -20,6 +22,11 @@ namespace BlackJack
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Owner\Documents\Github\C-Sharp-Projects\BlackJack\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new BlackJackGame();
                 game += player;
                 player.isActivelyPlaying = true;
