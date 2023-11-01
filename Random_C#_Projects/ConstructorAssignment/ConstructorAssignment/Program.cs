@@ -14,7 +14,6 @@ namespace ConstructorAssignment
 
             var num = 9;
 
-            Employee employee = new Employee(4, "Echbert");
         }
     }
 }

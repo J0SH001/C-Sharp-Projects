@@ -17,6 +17,12 @@ namespace DateTimeAssignment
             DateTime then = now.AddHours(number);
             Console.WriteLine(then);
 
+            Console.WriteLine("Enter a date.");
+            DateTime number = Convert.ToDateTime(Console.ReadLine());
+
+            TimeSpan age = DateTime.Now - number;
+            Console.WriteLine(age.Days / 365);
+
             Console.ReadLine();
         }
     }
