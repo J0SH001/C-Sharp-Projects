@@ -1,14 +1,20 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ConsoleApp1;
 
-static void Main(string[] args)
+namespace ConsoleApp1
 {
-
-    using (var ctx = new SchoolContext())
+    class Program
     {
-        var stud = new Student() { StudentName = "Bill" };
+        static void Main(string[] args)
+        {
 
-        ctx.Students.Add(stud);
-        ctx.SaveChanges();
+            using (var ctx = new SchoolContext())
+            {
+                var stud = new Student() { StudentName = "Bill" };
+
+                ctx.Students.Add(stud);
+                ctx.SaveChanges();
+            }
+        }
     }
 }
