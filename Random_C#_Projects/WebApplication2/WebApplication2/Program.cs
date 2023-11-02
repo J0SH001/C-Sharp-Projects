@@ -1,3 +1,5 @@
+using WebApplication2.Pages;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -23,3 +25,15 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+static void Main(string[] args)
+{
+
+    using (var ctx = new SchoolContext())
+    {
+        var stud = new Student() { StudentName = "Bill" };
+
+        ctx.Students.Add(stud);
+        ctx.SaveChanges();
+    }
+}
