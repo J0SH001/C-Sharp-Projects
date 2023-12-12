@@ -1,2 +1,5 @@
 # C-Sharp-Projects
 Time to learn some C#! First impression, I feel like this will be fundamentally different from Python and JavaScript but honestly have no idea how this language works.
+
+November 2nd -
+  In this course I learned a lot of different structures/features of C# including <a href="https://github.com/J0SH001/C-Sharp-Projects/tree/main/Random_C%23_Projects/EnumAssignment">Enums</a>, <a href="https://github.com/J0SH001/C-Sharp-Projects/tree/main/Random_C%23_Projects/ConstructorAssignment">Constructors</a>, <a href="https://github.com/J0SH001/C-Sharp-Projects/tree/main/Random_C%23_Projects/SwitchExample">Switches</a>, <a href="https://github.com/J0SH001/C-Sharp-Projects/tree/main/Random_C%23_Projects/ExceptionExamples">Exceptions</a> etc. I also created a <a href="https://github.com/J0SH001/C-Sharp-Projects/tree/main/MVC_Projects/CarInsurance/CarInsurance">car insurance</a> claculator which took in different inputs and would generate a quote and the largest project on this course was the creation of a <a href="https://github.com/J0SH001/C-Sharp-Projects/tree/main/BlackJack">blackjack</a> game simulator.
